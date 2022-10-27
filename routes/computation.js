@@ -19,9 +19,9 @@ var y = Math.random();
 
 
 
-var val1="Math.cos()applied to "+ x + " is "+ Math.sign(x)
-var val2="Math.asin()applied to "+ x + " is "+ Math.sign(x)
-var val3="Math.asinh() applied to "+ x + " is "+ Math.tanh(x);
+var val1="Math.cos()applied to "+ x + " is "+ Math.cos(x)
+var val2="Math.asin()applied to "+ x + " is "+ Math.asin(x)
+var val3="Math.asinh() applied to "+ x + " is "+ Math.asinh(x);
 
 /* GET home page. */
 
