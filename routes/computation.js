@@ -20,8 +20,8 @@ var y = Math.random();
 
 
 var val1="Math.pow(base, exponent) applied to "+ x +"and"+ y +" is "+ Math.pow(x, y)
-var val2="Math.sign(x)applied to "+ x + " is "+ Math.sign(x)
-var val3="Math.tanh(x) applied to "+ x + " is "+ Math.tanh(x);
+var val2="Math.sign(base)applied to "+ x + " is "+ Math.sign(x)
+var val3="Math.tanh(base) applied to "+ x + " is "+ Math.tanh(x);
 
 /* GET home page. */
 
